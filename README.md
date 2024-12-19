@@ -21,7 +21,9 @@ I'm a passionate software developer with a focus on creating innovative solution
 In addition to my work on the "Scandroid 「MIRAGE」" Application, I have experience with development of automated tools for OSINT gathering, as well as AI-assisted, orchestrated data compilation—not exactly RAG LLMs, but also RAG LLMs. These skills allow me to efficiently gather and analyze data from various sources, providing valuable insights and actionable information.
 
 If you're a fan of any of my projects, you can:
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://ko-fi.com/Q5Q8YABHT)
+
 I'm also actively involved in job searching, leveraging my technical expertise and problem-solving abilities to identify opportunities that align with my professional goals and interests.
 
 Feel free to explore my GitHub repositories and reach out if you have any questions or collaboration opportunities!
