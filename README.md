@@ -18,7 +18,7 @@
 
 
 
-I'm a passionate software developer with a focus on creating innovative solutions. One of my notable projects is the "**Scandroid 「MIRAGE」"** Application, which I developed, deployed, and maintain. This application has hundreds of daily users and is designed to provide a seamless experience for any TTRPG play-by-post, but presently it's mainly geared at 5e; this will change in the future, as the application is being entirely restructured and rebuilt into C#.
+I'm a curious software developer with a focus on creating innovative solutions. One of my notable projects is the "**Scandroid 「MIRAGE」"** Application, which I developed, deployed, and maintain. This application has hundreds of daily users and is designed to provide a seamless experience for any TTRPG play-by-post, but presently it's mainly geared at 5e; this will change in the future, as the application is being entirely restructured and rebuilt into C#.
 
 In addition to my work on the "Scandroid 「MIRAGE」" Application, I have experience with development of automated tools for OSINT gathering, as well as AI-assisted, orchestrated data compilation—not exactly RAG LLMs, but also RAG LLMs. These skills allow me to efficiently gather and analyze data from various sources, providing valuable insights and actionable information.
 
